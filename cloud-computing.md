@@ -33,6 +33,7 @@ The more others run the better economies of scale apply.
 	* pooling of resources
 		* e.g. CPU of laptop is mostly not running
 		* indeed can assign 16 virtual CPUs to one physical one
+			* but for GPU hasn't been practical until recently
 	* allows for economies of scale
 * Flexible
 	* changing requirements: just pay for different services
