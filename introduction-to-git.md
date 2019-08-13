@@ -14,7 +14,7 @@ By Jeremy Nickurak.
 
 ## Basics
 
-* `git init`
+* `git init` or `git clone`
 * `git status`
 * `git add`
 	* `git add -p` interactively adds data hunk by hunk
@@ -33,6 +33,7 @@ By Jeremy Nickurak.
 	* Resets the index and working tree to the commit specified by the hash.
 	* Without the `--hard` git resets the index but not working tree.
 	* Without the hash it will go to the `HEAD`.
+* `git pull`
 
 ### Good commit messages
 
@@ -58,3 +59,15 @@ By Jeremy Nickurak.
 
 Most popular hosting solution for Git.
 * Also has community features.
+
+### Forking
+
+Click on the fork button.
+
+Creates a new repository.
+
+Then make the changes in this repository.
+
+Then press the 'new pull request' button.
+
+The requests and solutions will be shown in the Pull requests tab in GitHub.
