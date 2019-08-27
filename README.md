@@ -1,5 +1,5 @@
 # Cybera fellowship notes
- 
+
 ## Workshops
 
 ### Cloud computing
@@ -18,3 +18,7 @@
 by Alecia Vogel
 
 [Containerisation for Data Science](containerisation-for-data-science.md)
+
+### Mimir
+
+[Mimir for managing data science projects](mimir.md)
