@@ -1,13 +1,15 @@
 # Cybera fellowship notes
 
+## Scrum notes
+
+[Scrum notes](scrum-notes.md)
+
 ## Workshops
 
 ### Cloud computing
 
 [Cloud computing](cloud-computing.md)
 [Cybera Rapid Access Cloud Guide Part I](rac-guide-part-i.md)
-
-[Remote Jupyter Notebooks](remote-juptyer.md)
 
 ### Git
 
